@@ -1,6 +1,6 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "https://systemsthink.org"
+baseURL = "https://ben-m1.github.io/ben-m1-.github.io/"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
